@@ -1,5 +1,10 @@
 # gmail2slack
 
+## Send a slack notification whenever a new gmail arrives. Used for alerting from info@digitaloxford.com. 
+
+This will be updated with more details when the heroku instance is set up.
+
+---- Original readme below ----
 
 This program will monitor your gmail inbox and when you receive a new email, it will send you a notification on slack.
 
@@ -127,8 +132,3 @@ which I saved to gmail2slack.sh and then run `crontab -e` and add a line like:
 ```
 
 Of course change the paths to match your environment
-
-
-## Known Issues
-
-None -- I can 
